@@ -61,10 +61,13 @@ if __name__ == "__main__":
     with open(FILE, "r", encoding="utf-8") as f:
         reader = csv.reader(f)
         for row in reader:
-            if len(row) < 3:
+            if len(row) < 2:
                 print(f"Skipping row with insufficient data: {row}")
                 continue
-            en_word, uk_word, gender = row[0], row[1], row[2]
+            if len(row) < 3:
+                en_word, uk_word, gender = row[0], row[1], "-"
+            else:
+                en_word, uk_word, gender = row[0], row[1], row[2]
             audio_file = f"audio/{uk_word}.mp3"
             if not os.path.exists(audio_file):
                 print(f"Generating audio for {audio_file} ...")
