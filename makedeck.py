@@ -6,6 +6,18 @@ from gtts import gTTS
 
 FILE = "словничок.csv"
 
+CSS = """
+.card {
+    font-family: Arial;
+    font-size: 24px;
+    line-height: 1.6;
+    text-align: center;
+}
+.uk {
+    color: #005bbb;
+}
+"""
+
 
 # Hash GUID using the Ukranian word only
 class MyNote(genanki.Note):
@@ -36,17 +48,7 @@ if __name__ == "__main__":
                 "afmt": '{{FrontSide}}<hr id="answer">{{English}}<br>({{Gender}})',
             },
         ],
-        css="""
-        .card {
-            font-family: Arial;
-            font-size: 20px;
-            line-height: 1.6;
-            text-align: center;
-        }
-        .uk {
-            color: #005bbb;
-        }
-        """,
+        css=CSS,
     )
 
     media_files = []
