@@ -14,7 +14,10 @@ CSS = """
     text-align: center;
 }
 .uk {
-    color: #005bbb;
+    color: #3296ff;
+}
+.nightMode .uk {
+    color: #ffff00;
 }
 """
 
