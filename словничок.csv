@@ -352,7 +352,7 @@ typhoon,тайфун,ж
 dust,пил
 storm,буря,ж
 storm,шторм
-dust storm, пилова буря
+dust storm,пилова буря
 fire,пожежа,ж
 ice / glaze ice,ожеледь
 snowfall,снігопад
@@ -434,3 +434,8 @@ having breakfast,снідає
 having lunch,обідає
 having dinner,вечеряє
 nowhere,нікуди не
+closed,зачинений
+discussion,дискусія
+it is raining,падає дощ
+sign,знак
+slavic language,слов'янська мова
