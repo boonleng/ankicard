@@ -73,8 +73,8 @@ if __name__ == "__main__":
                 en_word, uk_word, gender = row[0], row[1], "-"
             else:
                 en_word, uk_word, gender = row[0], row[1], row[2]
-            en_word = en_word.lower()
-            uk_word = uk_word.lower()
+            en_word = en_word.lower().strip()
+            uk_word = uk_word.lower().strip()
             audio_file = f"audio/{uk_word}.mp3"
             if not os.path.exists(audio_file):
                 print(f"Generating audio for {audio_file} ...")

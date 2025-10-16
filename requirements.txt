@@ -1,2 +1,2 @@
-ankicard
+genanki
 gtts
