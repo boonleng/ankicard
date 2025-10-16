@@ -32,7 +32,7 @@ class MyNote(genanki.Note):
 if __name__ == "__main__":
     my_model = genanki.Model(
         251960520,
-        "Enuk Model",
+        "En-Uk Model",
         fields=[
             {"name": "Ukrainian"},
             {"name": "English"},
