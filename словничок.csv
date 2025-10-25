@@ -1,456 +1,489 @@
-task,завдання,с
-foreigner,іноземка,ж
-museum,музей,ч
-tablet,планшет,ч
-sentence,речення,с
-musician,музикант,ч
-dorm,гуртожиток,ч
-small cake,тістечко,с
-carrot,морква,ж
-bun,булочка,ж
-pepper,перець,ч
-tomato,помідор,ч
-cucumber,огірок,ч
-onion,цибуля,ж
-river,річка,ж
-mountain,гора,ж
-tree,дерево,с
-flower,квітка,ж
-star,зірка,ж
-waterfall,водоспад,ч
-thought,думка,ж
-path,шлях,ч
-freedom,свобода,ж
-light,світло,с
-forest,ліс,ч
-delivery,доставка,ж
-butterfly,метелик,ч
-wind,вітер,ч
-ocean,океан,ч
-voice,голос,ч
-peace,мир,ч
-autumn,осінь,ж
-art,мистецтво,ч
-fate,доля,ж
-friendship,дружба,ж
-dream,мрія,ж
-language,мова,ж
-culture,культура,ж
-communication,спілкування,ж
-meeting,зустріч,ж
-party,вечірка,ж
-university,університет,ч
-society,суспільство,с
-occupation,заняття,с
-problem,проблема,ж
-nature,природа,ж
-science,наука,ж
-memory,пам'ять,ж
-health,здоров'я,c
-solution,рішення,с
-hobby,хобі,с
-study,навчання,с
-life,життя,c
-shadow,тінь,ж
-love,любов,ж
-goal,мета,ж
-song,пісня,ж
-night,ніч,ж
-silence,тиша,ж
-joy,радість,ж
-anger,злість,ж
-illness,хвороба,ж
-tear,сльоза,ж
-faith,віра,ж
-thunderstorm,гроза,ж
-bone,кістка,ж
-story,повість,ж
-oven,піч,ж
-pride,гордість,ж
-blood,кров,ж
-thing,річ,ж
-honor,честь,ж
-flood,повінь,ж
-ointment,мазь,ж
-target,ціль,ж
-cheers,будьмо
-return,повернутися
-were returning,поверталися
-find,знаходжу
-difficult,складно
-everytime,щоразу
-often,часто
-really,справді
-special,особливим
-romantic,романтичною
-before,перед
-amazing,неймовірно
-went / were walking,йшли
-backward,назад
-holding,тримаючи
-holding,тримаючись
-quietly,тихо
-forever,назавжди
-remain,залишаються
-moment,мить
-real,справжньому
-now,тепер
-count,рахую
-our,нашої
-smile,усмішку
-hug,обійму
-kiss,поцілую
-fill,наповнює
-big,великою
-joy,радістю
-like wise / mutually,навзаєм
-take care of yourself,бережи себе
-to leave,залишити
-short,коротке
-voicemail,голосове повідомлення
-homework,домашне завдання
-it turns out,виходить
-mistake,помилку
-begin,починати
-end,кінець
-really,дійсно
-enough / fairly / really,досить
-birthplace,народився
-earlier,раніше
-necessary,потрібний
-needed,потрібен
-allow,дозвольте
-allow,дозволити
-boy,хлопчик
-boy,хлопець
-boys,хлопці
-girl,дівчина
-girls,дівчата
-child,дитина
-children,діти
-man,чоловік
-woman,жінка
-teenager,підліток
-youth,молодь
-first aid kit,аптечка
-battery,батарейка
-bin,біник
-scoop,совок
-mop,швабра
-bucket,відро
-vacuum cleaner,пилосос
-brush,щітка
-rag,ганчірка
-sponge,губка
-garbage bin,смітник
-garbage bag,пакети
-paper towel,паперові рушники
-toilet paper,туалетний папір
-soap,мило
-detergent,мийний засіб
-was born,народилася
-touching,зворушливий
-warm,теплий
-caring,дбайливий
-truthful,правдивий
-compassionate,жалісливий
-shy,соромливий
-affectionate,ласливий
-playful,жартівливий
-trusting,довірливий
-mindful,пам’ятливий
-envious,заздрісливий
-attentive,уважливий
-sensitive,чутливий
-merciful,милосердливий
-polite,люб’язливий
-patient,терпеливий
-persistent,наполегливий
-touchy,образливий
-jealous,ревнивий
-virtuous,доброчесливий
-friendly,дружелюбливий
-forgetful,забудьливий
-talkative,балакливий
-angry,гнівливий
-grateful,вдячливий
-hardworking,працьовитливий
-hopeful,надійливий
-joyful,веселивий
-tearful,сльозливий
-respectful,шанобливий
-thoughtful,думливий
-madness,шаленію
-adore,обожнюю
-gaze,погляд
-melt,тану
-adventure,пригода
-business trip,відрядження
-exciting,захоплююче
-housework,робота по дому
-to arrive,приїхати
-turn / return,повертатися
-repetition,повторення
-traveled / went to,їздив
-last week,минулого тижня
-next week,наступного тижня
-semester,семестр
-begin,починатися
-holiday,свято
-dangerous,небезпечний
-safe,безпечний
-builds,зводить
-mind,розуму
-break away,відірватися
-as if,наче
-magic,магія
-even,навіть
-imagine,уявити
-imagine,уявляєш
-influence,впливати
-to force,змусити
-(you) force,змушуєш
-feel,відчувати
-the only one,єдина
-to each,кожному
-to mine,моєму
-moment,русі
-stop,зупиняйся
-longer,довше
-let go,відпущу
-appreciate,цінувати
-support,підтримка
-present / gift,подарунок
-kind,добрий
-smiling,посміхаючись
-under,під
-would,би
-even,же
-hooray,ура
-hey,гей
-chicken,курка
-dignity,гідність
-tenderness,ніжність
-poverty,бідність
-librarian,бібліотекар
-blanket,ковдра
-dean,декан
-pencil,олівець
-comrade,товариш
-bed,ліжко
-textbook,підручник
-notebook,зошит
-painting,картина
-politics / policy,політика
-owl,сова
-studied,навчався
-together,разом
-free,вільний
-friends,друзями
-let's,давайте
-to get acquainted,познайомитися
-have a nice trip,щасливої дороги
-sit down,сідайте
-tender,ніжний
-nice / cute,милий
-spend time,проводити час
-wrong,неправильно
-false,неправда
-factory,заводі
-clean,чиста
-cottage,хата
-their,їхній
-their,їхня
-dwelling,житло
-legends,легенди
-sorrow,журбу
-was walking,йшов
-complete,виконати
-on time,вчасно
-describes,описані
-result,результати
-negotiations,переговорів
-meeting / conference,нараді
-exhibition,виставка
-international,міжнародний
-boring,нудно
-boring,нудний
-bright,яскравий
-bitter,гіркий
-sweet,солодкий
-becomes,стає
-better,кращою
-sunflower,соняшник
-the best,найкраща
-heart,серце
-only,тільки
-sexy,сексуально
-so cute,так мило
-all,усю
-hot,гарячою
-sound,звук
-the most beautiful,найпрекраснішою
-fire,вогонь
-to burn,згоріти
-temptation,спокуса
-lips,губи
-body,тіло
-madness,божевілля
-good,хороший
-student,учень
-watching,дивлюся
-get lost,гублюсь
-lost,загубися
-near,біля
-next to,поряд
-take,візьми
-(you) will ask,попросиш
-stay,залишуся
-mood,настрій
-early,рано
-conference,конференція
-schoolboy,школяр
-schoolgirl,школярка
-nowhere,ніде
-except,крім
-except,окрім як
-crooked,кривий
-horn,ріг
-just,щойно
-wake up,прокидатися
-colleague,колега
-colleagues,колеги
-china,китай
-chinese,китайська мова
-clean,чистити
-promise,обіцяти
-after,після
-then,потім
-fishing,риболовля
-lake,озеро
-one-the-job training,тренінг на роботі
-spell / sorcery,чари
-beautiful,прекрасний
-cheerful,веселий
-sad,сумний
-ugly,потворний
-loud,голосний
-difficult,складний
-simple,простий
-natural disasters,стихійні лиха
-shower,злива
-earthquake,землетрус
-landslide,зсув
-drought,посуха
-hurricane,ураган
-cyclone,циклон
-typhoon,тайфун,ж
-dust,пил
-storm,буря,ж
-storm,шторм
-dust storm,пилова буря
-fire,пожежа,ж
-ice / glaze ice,ожеледь
-snowfall,снігопад
-tsunami,цунамі
-avalanche,лавина
-joke,жарт
-all the best,всього найкращого
-schoo holiday,канікули
-spend,витрачати
-conduct / carry out,проводити
-funny,смішний
-salmon,лосось
-recommend,рекомендувати
-appetizer,закуска
-dish,страва
-main / basic,основний
-a little,трішки
-scientist,науковець
-researcher,дослідник
-to tear off,відірвати
-dinosaur,динозавр
-give (soft),подавай
-beef,яловичина
-chicken (meat),курятина
-clever one,мудренька
-little smartie,мудрунька
-know-it-all,всезнайко
-smartie,розумнице
-smartie,розумничка
-try,спробувати
-peanut,арахіс
-entrance,вхід
-exit,вихід
-stand,стояти
-bathroom,ванна
-all or nothing,пан або пропав
-agree,домовитися
-agreed,домовились
-put,поставити
-forecast,прогнозом
-weather forecast,прогноз погоди
-come,прийти
-artist,митець
-let's go,сходимо
-date,побачення
-difference,різниця
-look forward,чекати з нетерпінням
-similar,схожий
-polish language,польська мова
-old,літній
-experienced,досвідчений
-celebrate,святкувати
-adult,дорослий
-bakery,пекарня
-sweet tooth,ласун
-eat,їсти
-eat too much,з'їсти забагато
-too much,занадто багато
-mostly,переважно
-castle,замок
-border,кордон
-this,цим
-bigger / more,більший
-excursion,екскурсія
-windy,вітряно
-similar weather,схожа погода
-to practice,практикувати
-worry,хвилюватися
-loaf,батон
-in a hurry,поспішає
-dining hall / canteen,їдальня
-is located,знаходиться
-fried,смажена
-necessarily / obligated,обов’язково
-pie,пиріг
-having breakfast,снідає
-having lunch,обідає
-having dinner,вечеряє
-nowhere,нікуди не
-closed,зачинений
-discussion,дискусія
-it is raining,падає дощ
-sign,знак
-slavic language,слов'янська мова
-wash (clothes),прати
-wash (car),мити
-find,знаходити
-buy,купувати
-dirty,брудний
-teach,навчати
-to teach,вчити
-bold / daring,сміливий
-mathematics,математика
-roomate,сусідка по кімнаті
-separate,окремий
-not yet,ще ні
-Fahrenheit,Фаренгейт
-rest,відпочивати
-science fiction,фантастика
-fantasy,фентезі
-Caribbean Sea,карибське море
-accurate,точний
-island,острів
-engineering,інженерний
-check,перевіряти
+завдання,task,с
+іноземка,foreigner,ж
+музей,museum,ч
+планшет,tablet,ч
+речення,sentence,с
+музикант,musician,ч
+гуртожиток,dorm,ч
+тістечко,small cake,с
+морква,carrot,ж
+булочка,bun,ж
+перець,pepper,ч
+помідор,tomato,ч
+огірок,cucumber,ч
+цибуля,onion,ж
+річка,river,ж
+гора,mountain,ж
+дерево,tree,с
+квітка,flower,ж
+зірка,star,ж
+водоспад,waterfall,ч
+думка,thought,ж
+шлях,path,ч
+свобода,freedom,ж
+світло,light,с
+ліс,forest,ч
+доставка,delivery,ж
+метелик,butterfly,ч
+вітер,wind,ч
+океан,ocean,ч
+голос,voice,ч
+мир,peace,ч
+осінь,autumn,ж
+мистецтво,art,ч
+доля,fate,ж
+дружба,friendship,ж
+мрія,dream,ж
+мова,language,ж
+культура,culture,ж
+спілкування,communication,ж
+зустріч,meeting,ж
+вечірка,party,ж
+університет,university,ч
+суспільство,society,с
+заняття,occupation,с
+проблема,problem,ж
+природа,nature,ж
+наука,science,ж
+пам'ять,memory,ж
+здоров'я,health,c
+рішення,solution,с
+хобі,hobby,с
+навчання,study,с
+життя,life,c
+тінь,shadow,ж
+любов,love,ж
+мета,goal,ж
+пісня,song,ж
+ніч,night,ж
+тиша,silence,ж
+радість,joy,ж
+злість,anger,ж
+хвороба,illness,ж
+сльоза,tear,ж
+віра,faith,ж
+гроза,thunderstorm,ж
+кістка,bone,ж
+повість,story,ж
+піч,oven,ж
+гордість,pride,ж
+кров,blood,ж
+річ,thing,ж
+честь,honor,ж
+повінь,flood,ж
+мазь,ointment,ж
+ціль,target,ж
+будьмо,cheers
+повернутися,return
+поверталися,were returning
+знаходжу,find
+складно,difficult
+щоразу,everytime
+часто,often
+справді,really
+особливим,special
+романтичною,romantic
+перед,before
+неймовірно,amazing
+йшли,went / were walking
+назад,backward
+тримаючи,holding
+тримаючись,holding
+тихо,quietly
+назавжди,forever
+залишаються,remain
+мить,moment
+справжньому,real
+тепер,now
+рахую,count
+нашої,our
+усмішку,smile
+обійму,hug
+поцілую,kiss
+наповнює,fill
+великою,big
+радістю,joy
+навзаєм,like wise / mutually
+бережи себе,take care of yourself
+залишити,to leave
+коротке,short
+голосове повідомлення,voicemail
+домашне завдання,homework
+виходить,it turns out
+помилку,mistake
+починати,begin
+кінець,end
+дійсно,really
+досить,enough / fairly / really
+народився,birthplace
+раніше,earlier
+потрібний,necessary
+потрібен,needed
+дозвольте,allow
+дозволити,allow
+хлопчик,boy
+хлопець,boy
+хлопці,boys
+дівчина,girl
+дівчата,girls
+дитина,child
+діти,children
+чоловік,man
+жінка,woman
+підліток,teenager
+молодь,youth
+аптечка,first aid kit
+батарейка,battery
+біник,bin
+совок,scoop
+швабра,mop
+відро,bucket
+пилосос,vacuum cleaner
+щітка,brush
+ганчірка,rag
+губка,sponge
+смітник,garbage bin
+пакети,garbage bag
+паперові рушники,paper towel
+туалетний папір,toilet paper
+мило,soap
+мийний засіб,detergent
+народилася,was born
+зворушливий,touching
+теплий,warm
+дбайливий,caring
+правдивий,truthful
+жалісливий,compassionate
+соромливий,shy
+ласливий,affectionate
+жартівливий,playful
+довірливий,trusting
+пам’ятливий,mindful
+заздрісливий,envious
+уважливий,attentive
+чутливий,sensitive
+милосердливий,merciful
+люб’язливий,polite
+терпеливий,patient
+наполегливий,persistent
+образливий,touchy
+ревнивий,jealous
+доброчесливий,virtuous
+дружелюбливий,friendly
+забудьливий,forgetful
+балакливий,talkative
+гнівливий,angry
+вдячливий,grateful
+працьовитливий,hardworking
+надійливий,hopeful
+веселивий,joyful
+сльозливий,tearful
+шанобливий,respectful
+думливий,thoughtful
+шаленію,madness
+обожнюю,adore
+погляд,gaze
+тану,melt
+пригода,adventure
+відрядження,business trip
+захоплююче,exciting
+робота по дому,housework
+приїхати,to arrive
+повертатися,turn / return
+повторення,repetition
+їздив,traveled / went to
+минулого тижня,last week
+наступного тижня,next week
+семестр,semester
+починатися,begin
+свято,holiday
+небезпечний,dangerous
+безпечний,safe
+зводить,builds
+розуму,mind
+відірватися,break away
+наче,as if
+магія,magic
+навіть,even
+уявити,imagine
+уявляєш,imagine
+впливати,influence
+змусити,to force
+змушуєш,(you) force
+відчувати,feel
+єдина,the only one
+кожному,to each
+моєму,to mine
+русі,moment
+зупиняйся,stop
+довше,longer
+відпущу,let go
+цінувати,appreciate
+підтримка,support
+подарунок,present / gift
+добрий,kind
+посміхаючись,smiling
+під,under
+би,would
+же,even
+ура,hooray
+гей,hey
+курка,chicken
+гідність,dignity
+ніжність,tenderness
+бідність,poverty
+бібліотекар,librarian
+ковдра,blanket
+декан,dean
+олівець,pencil
+товариш,comrade
+ліжко,bed
+підручник,textbook
+зошит,notebook
+картина,painting
+політика,politics / policy
+сова,owl
+навчався,studied
+разом,together
+вільний,free
+друзями,friends
+давайте,let's
+познайомитися,to get acquainted
+щасливої дороги,have a nice trip
+сідайте,sit down
+ніжний,tender
+милий,nice / cute
+проводити час,spend time
+неправильно,wrong
+неправда,false
+заводі,factory
+чиста,clean
+хата,cottage
+їхній,their
+їхня,their
+житло,dwelling
+легенди,legends
+журбу,sorrow
+йшов,was walking
+виконати,complete
+вчасно,on time
+описані,describes
+результати,result
+переговорів,negotiations
+нараді,meeting / conference
+виставка,exhibition
+міжнародний,international
+нудно,boring
+нудний,boring
+яскравий,bright
+гіркий,bitter
+солодкий,sweet
+стає,becomes
+кращою,better
+соняшник,sunflower
+найкраща,the best
+серце,heart
+тільки,only
+сексуально,sexy
+так мило,so cute
+усю,all
+гарячою,hot
+звук,sound
+найпрекраснішою,the most beautiful
+вогонь,fire
+згоріти,to burn
+спокуса,temptation
+губи,lips
+тіло,body
+божевілля,madness
+хороший,good
+учень,student
+дивлюся,watching
+гублюсь,get lost
+загубися,lost
+біля,near
+поряд,next to
+візьми,take
+попросиш,(you) will ask
+залишуся,stay
+настрій,mood
+рано,early
+конференція,conference
+школяр,schoolboy
+школярка,schoolgirl
+ніде,nowhere
+крім,except
+окрім як,except
+кривий,crooked
+ріг,horn
+щойно,just
+прокидатися,wake up
+колега,colleague
+колеги,colleagues
+китай,china
+китайська мова,chinese
+чистити,clean
+обіцяти,promise
+після,after
+потім,then
+риболовля,fishing
+озеро,lake
+тренінг на роботі,one-the-job training
+чари,spell / sorcery
+прекрасний,beautiful
+веселий,cheerful
+сумний,sad
+потворний,ugly
+голосний,loud
+складний,difficult
+простий,simple
+стихійні лиха,natural disasters
+злива,shower
+землетрус,earthquake
+зсув,landslide
+посуха,drought
+ураган,hurricane
+циклон,cyclone
+тайфун,typhoon,ж
+пил,dust
+буря,storm,ж
+шторм,storm
+пилова буря,dust storm
+пожежа,fire,ж
+ожеледь,ice / glaze ice
+снігопад,snowfall
+цунамі,tsunami
+лавина,avalanche
+жарт,joke
+всього найкращого,all the best
+канікули,schoo holiday
+витрачати,spend
+проводити,conduct / carry out
+смішний,funny
+лосось,salmon
+рекомендувати,recommend
+закуска,appetizer
+страва,dish
+основний,main / basic
+трішки,a little
+науковець,scientist
+дослідник,researcher
+відірвати,to tear off
+динозавр,dinosaur
+подавай,give (soft)
+яловичина,beef
+курятина,chicken (meat)
+мудренька,clever one
+мудрунька,little smartie
+всезнайко,know-it-all
+розумнице,smartie
+розумничка,smartie
+спробувати,try
+арахіс,peanut
+вхід,entrance
+вихід,exit
+стояти,stand
+ванна,bathroom
+пан або пропав,all or nothing
+домовитися,agree
+домовились,agreed
+поставити,put
+прогнозом,forecast
+прогноз погоди,weather forecast
+прийти,come
+митець,artist
+сходимо,let's go
+побачення,date
+різниця,difference
+чекати з нетерпінням,look forward
+схожий,similar
+польська мова,polish language
+літній,old
+досвідчений,experienced
+святкувати,celebrate
+дорослий,adult
+пекарня,bakery
+ласун,sweet tooth
+їсти,eat
+з'їсти забагато,eat too much
+занадто багато,too much
+переважно,mostly
+замок,castle
+кордон,border
+цим,this
+більший,bigger / more
+екскурсія,excursion
+вітряно,windy
+схожа погода,similar weather
+практикувати,to practice
+хвилюватися,worry
+батон,loaf
+поспішає,in a hurry
+їдальня,dining hall / canteen
+знаходиться,is located
+смажена,fried
+обов’язково,necessarily / obligated
+пиріг,pie
+снідає,having breakfast
+обідає,having lunch
+вечеряє,having dinner
+нікуди не,nowhere
+зачинений,closed
+дискусія,discussion
+падає дощ,it is raining
+знак,sign
+слов'янська мова,slavic language
+прати,wash (clothes)
+мити,wash (car)
+знаходити,find
+купувати,buy
+брудний,dirty
+навчати,teach
+вчити,to teach
+сміливий,bold / daring
+математика,mathematics
+сусідка по кімнаті,roomate
+окремий,separate
+ще ні,not yet
+Фаренгейт,Fahrenheit
+відпочивати,rest
+фантастика,science fiction
+фентезі,fantasy
+карибське море,Caribbean Sea
+точний,accurate
+острів,island
+інженерний,engineering
+перевіряти,check
+продовжувати,to continue
+вчитися,to learn
+нагадай,remind
+штани,trousers
+реальність, reality
+глобальний, global
+глобальне потепління, global warming
+вже ні, no longer
+бізнесмени, businessmen
+ціна, price
+зростати, to grow
+тип, type
+типи, types
+вид, kind
+види, kinds
+змінювати, to change
+лампа, lamp
+деякі з моїх сусідів, some of my neighbors
+деякий, some
+декорація, decoration
+тренінг, training
+тренування, workout
+дивитися за дітьми, to watch over children
+інгредієнти, ingredients
+особливий, special
+фермер, farmer
+оптовий, wholesale
+роздрібний, retail
+зручний, convenient
+будь-який, any
+практика, practice
+кращий, better
+минулий, past
