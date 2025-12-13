@@ -1,5 +1,6 @@
 import os
 import csv
+import glob
 import genanki
 
 from gtts import gTTS
@@ -29,7 +30,31 @@ class MyNote(genanki.Note):
         return genanki.guid_for(self.fields[0])
 
 
-if __name__ == "__main__":
+def find_duplicates():
+    # Find duplicate 2nd column entries
+    seen = set()
+    duplicates = set()
+
+    with open(FILE, "r", encoding="utf-8") as f:
+        reader = csv.reader(f)
+        for row in reader:
+            if len(row) > 1:
+                uk_word = row[0]
+                if uk_word in seen:
+                    duplicates.add(uk_word)
+                seen.add(uk_word)
+
+    if duplicates:
+        print("Duplicate entries found:")
+        for dup in duplicates:
+            print(dup)
+
+    for audio in glob.glob("audio/*.mp3"):
+        if audio.split("/")[-1].lower().replace(".mp3", "") not in seen:
+            print(f"Missing: {audio}")
+
+
+def add_entries():
     my_model = genanki.Model(
         251960520,
         "En-Uk Model",
@@ -96,3 +121,8 @@ if __name__ == "__main__":
     output_file = os.path.expanduser("~/Downloads/enuk.apkg")
     package.write_to_file(output_file)
     print(f"Anki package created: {output_file}")
+
+
+if __name__ == "__main__":
+    find_duplicates()
+    add_entries()

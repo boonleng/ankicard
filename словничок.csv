@@ -41,7 +41,7 @@
 вечірка,party,ж
 університет,university,ч
 суспільство,society,с
-заняття,occupation,с
+заняття,occupation / class,с
 проблема,problem,ж
 природа,nature,ж
 наука,science,ж
@@ -507,10 +507,11 @@
 британець, british (people)
 американець, american (people)
 українець, ukrainian (people)
+українці, Ukrainians (plural)
+українців, Ukrainians (genitive)
 британка, british
 американка, american
 українка, ukrainian
-жарт, joke
 акцент, accent
 багажник, trunk
 водити автомобіль, driving a car
@@ -534,7 +535,6 @@
 пів, half
 половина, half
 вставати, standing up
-стояти, stand
 День подяки, thanksgiving
 екран, screen
 полуниця, strawberry
@@ -605,3 +605,80 @@
 трава, grass
 травинка, grass (single blade)
 груди снігу, chest of snow
+чистий, clean
+на Нетфліксі, on Netflix
+серіал, TV series
+серіали, TV series (plural)
+серія, series
+серії, series (plural)
+з-до, from-to
+з другої до четвертої серії, from second to forth series
+танець, dance
+танці, dancing
+пропускати, skip
+відміняти, cancel
+скасувати, cancel
+персональні заняття, personal classes (lessons)
+персональне заняття, personal class (lesson)
+шоколадока, chocalate bar
+28 шоколадок, 28 chocalate bars
+бежевий, beige
+стілець, chair
+стільці, chairs
+схід, east
+сонце сходить, sunrise
+ракурс, perspective
+продуктивний, productive
+відпустка, vacation
+вправа, exercise
+аспект, aspect
+у моїй роботі, in my job
+співробітник,, employee
+селера, celery
+зарплата, salary
+заробітна плата, wages (for work pay)
+легкий, easy
+прапор, flag
+вибирати, choose
+обирати, choose
+шкодувати, regret
+забобонний, supersitious
+барна стійка, bar counter
+темно-синій, dark blue
+срібний, silver
+золотий, gold
+цегла, brick
+цегляна стіна, brick wall
+новина, news
+новини, news (plural)
+нервово, nerviously
+відвідувач, visitor
+пенсіонер, pensioner
+термін, term
+технічний термін, technical term
+вільно розмовляти, to speak fluently
+приймати гостей, to receive guests
+почуватися, to feel
+економіка, economy
+зацікавлений, interested
+цікавитися, to be interested in
+предмет, subject
+мені сподобалося, I liked
+їм сподобалося, they liked
+хімія, chemistry
+вміти, to be able to
+їси, you eat
+міг би бути, could be
+суржик, slang mix of Ukrainian and Russian
+тепліша, warmer
+гори, mountains
+майбутнє, future
+став, pond
+ловити, to catch (fish)
+вудка, fishing rod
+сірий, gray
+сивий, gray (hair)
+сиве, gray (hair)
+сіре, gray (neuter)
+позичати, to borrow
+існувати, to exist
