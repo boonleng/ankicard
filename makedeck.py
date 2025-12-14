@@ -30,7 +30,7 @@ class MyNote(genanki.Note):
         return genanki.guid_for(self.fields[0])
 
 
-def find_duplicates():
+def find_duplicates(remove=False):
     # Find duplicate 2nd column entries
     seen = set()
     duplicates = set()
@@ -39,7 +39,7 @@ def find_duplicates():
         reader = csv.reader(f)
         for row in reader:
             if len(row) > 1:
-                uk_word = row[0]
+                uk_word = row[0].lower().strip()
                 if uk_word in seen:
                     duplicates.add(uk_word)
                 seen.add(uk_word)
@@ -50,8 +50,12 @@ def find_duplicates():
             print(dup)
 
     for audio in glob.glob("audio/*.mp3"):
-        if audio.split("/")[-1].lower().replace(".mp3", "") not in seen:
-            print(f"Missing: {audio}")
+        if audio.split("/")[-1].lower().strip().replace(".mp3", "") not in seen:
+            if remove:
+                os.remove(audio)
+                print(f"Audio without an entry: {audio} removed.")
+            else:
+                print(f"Audio without an entry: {audio}")
 
 
 def add_entries():
@@ -124,5 +128,6 @@ def add_entries():
 
 
 if __name__ == "__main__":
-    find_duplicates()
+    args = os.sys.argv[1:]
+    find_duplicates(remove="remove" in args)
     add_entries()
