@@ -104,6 +104,7 @@ def add_entries():
                 uk_word, en_word, gender = row[0], row[1], row[2]
             uk_word = uk_word.lower().strip()
             en_word = en_word.lower().strip()
+            gender = gender.lower().strip()
             audio_file = f"audio/{uk_word}.mp3"
             if not os.path.exists(audio_file):
                 print(f"Generating {audio_file} ...")
