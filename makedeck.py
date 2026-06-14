@@ -1,5 +1,6 @@
 import os
 import csv
+import sys
 import glob
 import genanki
 
@@ -25,6 +26,8 @@ CSS = """
 
 # Hash GUID using the Ukranian word only
 class MyNote(genanki.Note):
+    fields: list[str]
+
     @property
     def guid(self):
         return genanki.guid_for(self.fields[0])
@@ -129,6 +132,8 @@ def add_entries():
 
 
 if __name__ == "__main__":
-    args = os.sys.argv[1:]
-    find_duplicates(remove="remove" in args)
+    args = sys.argv[1:]
+    print(f"Arguments: {args}")
+    remove = "remove" in args or "-d" in args
+    find_duplicates(remove=remove)
     add_entries()
