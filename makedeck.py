@@ -49,8 +49,36 @@ def find_duplicates(remove=False):
 
     if duplicates:
         print("Duplicate entries found:")
+        duplicates = list(duplicates)
         for dup in duplicates:
             print(dup)
+        once = [False] * len(duplicates)
+        if remove:
+            with open(FILE, "r", encoding="utf-8") as f:
+                reader = csv.reader(f)
+                lines = list(reader)
+            lines_to_keep = []
+            for k, row in enumerate(lines):
+                if len(row) < 2:
+                    continue
+                uk_word = row[0].lower().strip()
+                if uk_word in duplicates:
+                    idx = duplicates.index(uk_word)
+                    if not once[idx]:
+                        lines_to_keep.append(row)
+                        once[idx] = True
+                        print(f"Keep {k}: {row}")
+                    else:
+                        print(f"Toss {k}: {row}.")
+                else:
+                    lines_to_keep.append(row)
+
+            print(f"Total entries of new file: {len(lines_to_keep):,d}   previously {len(lines):,d}   duplicates: {len(duplicates)}")
+
+            with open(FILE, "w", encoding="utf-8", newline="") as f:
+                writer = csv.writer(f)
+                writer.writerows(lines_to_keep)
+
 
     for audio in glob.glob("audio/*.mp3"):
         if audio.split("/")[-1].lower().strip().replace(".mp3", "") not in seen:
