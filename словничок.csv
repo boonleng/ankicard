@@ -210,7 +210,7 @@
 впливати, influence
 змусити, to force
 змушуєш, (you) force
-відчувати, feel
+відчувати, i feel
 єдина, the only one
 кожному, to each
 моєму, to mine
@@ -240,7 +240,7 @@
 ліжко, bed
 підручник, textbook
 зошит, notebook
-картина, painting
+картина, painting / picture
 політика, politics / policy
 сова, owl
 навчався, studied
@@ -293,7 +293,6 @@
 вогонь, fire
 згоріти, to burn
 спокуса, temptation
-губи, lips
 тіло, body
 божевілля, madness
 хороший, good
@@ -321,7 +320,7 @@
 колега, colleague
 колеги, colleagues
 китай, china
-китайська мова, chinese
+китайська мова, chinese language
 чистити, clean
 обіцяти, promise
 після, after
@@ -357,7 +356,7 @@
 жарт, joke
 всього найкращого, all the best
 канікули, school holiday
-витрачати, spend
+витрачати, spend (time)
 проводити, conduct / carry out
 смішний, funny
 лосось, salmon
@@ -382,7 +381,7 @@
 арахіс, peanut
 вхід, entrance
 вихід, exit
-стояти, stand
+стояти, to stand
 ванна, bathroom
 пан або пропав, all or nothing
 домовитися, agree
@@ -407,7 +406,7 @@
 їсти, eat
 з'їсти забагато, eat too much
 занадто багато, too much
-переважно, mostly
+переважно, mostly / mainly
 замок, castle / lock
 кордон, border
 цим, this
@@ -453,9 +452,9 @@
 точний, accurate
 острів, island
 інженерний, engineering
-перевіряти, check
+перевіряти, check / verify
 продовжувати, to continue
-вчитися, to learn
+вчитися, to learn (emphasizing the process)
 нагадай, remind
 штани, trousers
 реальність, reality
@@ -488,12 +487,12 @@
 кращий, better
 минулий, past
 застуда, cold
-захворіти, get sick
+захворіти, to get sick
 планування, planning
 останнім, lately
 часом, sometimes
 треба бути зі сім'єю, need to be with family
-бути, be
+бути, to be / be
 бувати, be / visit
 спокійно, calmly
 індійський, indian
@@ -506,12 +505,12 @@
 пластівці, cerials
 британець, british (people)
 американець, american (people)
-українець, ukrainian (people)
+українець, ukrainian (people, m)
+українка, ukrainian (people, f)
 українці, Ukrainians (plural)
 українців, Ukrainians (genitive)
 британка, british
 американка, american
-українка, ukrainian
 акцент, accent
 багажник, trunk
 водити автомобіль, driving a car
@@ -588,7 +587,7 @@
 доїдати, to finish up
 доїдати залишки, finish the leftovers
 народитися, be born
-середній, middle
+середній, average
 ступінь магістра, master's degree
 листи, letters
 падати, fall
@@ -723,12 +722,12 @@
 глютен, gluten
 мука, flour
 крохмаль, starch
-жартувати, joke
-надіслати, send
+жартувати, joke (verb)
+надіслати, send (verb)
 настільна лампа, table lamp
 закричати, shout
-відкрити, open
-закрити, close
+відкрити, to open
+закрити, to close
 використання, using (noun)
 корисний, useful
 чарівний, charming
@@ -758,7 +757,6 @@
 в кінці, in the end
 сяяти, shine
 все сяє, everything shines
-задоволений, satisfied
 радий, glad
 математик, mathematician
 відсоток, percentage
@@ -773,11 +771,592 @@
 готувати, to prepare
 м'який, mellow / mild
 сувора, strict / harsh
-занадто, too
+занадто, too much
 цуценя, puppy
 кошеня, kitten
 поширювати, distribute / disseminate
-користуватися, use
+користуватися, to use
 кіт, cat
 коти, cats (plural)
 котів, cats (genitive)
+гірка, hill
+рости, grow
+виросли, grew
+сімейний серіал, family series
+сцена, scene
+може бути, can be
+одночасно, at the same time
+холодно, cold
+додаток, app / program
+додатки, apps / programs
+мовчати, keep silent
+через, through
+щиро, sincerely
+годинник, clock
+відомий, famous
+веселка, rainbow
+щоранку, every morning
+щовечора, every evening
+щоночі, every night
+щодня, every day
+мало, little
+багато, a lot
+зайнятий, busy / occupied
+книга, book
+школа, school
+синій, blue
+три, three
+перший, first
+швидко, quickly
+дуже, very
+зять, son-in-law, ч
+поштар, postman, ч
+учениця, schoolgirl, ж
+німкеня, german, ж
+вулиця, street
+коридор, corridor
+викладач, university teacher / lecturer
+студент, student
+словник, dictionary
+місяць, month
+друг, friend
+інженер, engineer
+історія, story / history
+деканат, dean's office
+крісло, armchair
+телевізор, television
+комп’ютер, computer
+рік, year
+іноземець, foreigner
+тиждень, weekday
+день, day
+парк, park
+аудиторія, auditorium
+інститут, institute
+поліклініка, clinic
+пацієнт, patient
+медсестра, nurse
+жах, horror
+задовольнити, satisfy
+задоволений, satisfied
+розташований, located
+встановити, install
+вивчення, study (noun)
+дорога, road
+дорого, expensive
+дешево, cheap
+почати, to begin
+вісити, to hang
+Париж, Paris
+у Париж, to Paris (Acc)
+у Парижі, to Paris (Loc)
+менший, smaller
+менше, less
+знайомий, familiar
+французи, French people
+я знаю їх дуже давно, I have known them for a long time
+все пройшло добре, everything went well
+достатньо, enough
+Ейфелева вежа, Eiffel Tower
+здалеку, from afar
+Статуя свободи, Statue of Liberty
+глінтвейн, mulled wine
+бурбон, bourbon
+віскі, whiskey
+він мусив бути зроблений, he had to be made
+кукурудза, corn
+видалити, to delete
+об'єднувати, to combine
+приватне життя, private life
+споживати, to consume
+вимагати, to demand
+напій, beverage
+гамбургер, hamburger
+кермувати, drive
+грип, flu
+мені шкода, I am sorry (to hear that)
+використовувати, to use
+гарна річ, good thing
+шефи, chefs
+майже, almost
+рівень, level
+відкривати, to open
+закривати, to close
+іспанська їжа, spanish food
+різати, to cut
+складати, to fold
+деякі рівні, some levels
+ігри, games
+обмежувати, to limit
+звертати увагу, to pay attention
+водійські права, driver's license
+вдома, at home
+додому, to home
+стакан, drinking glass (borrowed word from russian)
+склянка, drinking glass
+чашка, cup
+ложка, spoon
+виделка, fork
+ніж, knife
+тарілка, plate
+миска, bowl
+таця, tray
+сирники, sweet cottage cheese pancakes
+надворі, outside
+тераса, terrace
+надсилати, send
+увага, warning
+вирішувати, solve
+приносити, bring
+насичений, saturated
+познайомся, get acquianted
+перепрошую, sorry
+прізвище, family name
+англієць, english (people)
+запрошуй, invite
+заходь, come in
+заходити, to come in
+меблі, furniture
+затишно, cozy
+кущі, bush
+перукар, hairdresser
+записатися, to sign up
+стрижка, haircut
+фарбування, dyeing
+мені підходить, suits me
+cуддя, judge
+лице, face
+полумʼя, flame
+нуль, zero
+весна, spring
+часткова зайнятість, part-time job
+мультфільм, cartoon
+мавпа, monkey
+тигр, tiger
+богомол, mantis
+молитися, pray
+одного разу, once
+політ, flight (act of flying)
+рейс, flight (plane)
+ім'я, name
+справитися, cope
+спеція, spice
+приправа, spice
+Греція, greece
+здоровий, healthy
+сира їжа, raw food
+пекти, bake
+прямо, go straight
+перехрестя, intersection
+поверніть, turn
+поверніть ліворуч на перехресті, turn left at the junction
+нагадайте мені, remind me
+слідкую, watching / looking after
+слідкувати, watching / looking after
+одна з..., one of...
+одна з доньок, one of the daughters
+пояснювати, explaining
+шкільна команда, school team
+електроенергія, electricity
+летіти, flying
+через 2 дні, in 2 days
+п'ятниця, friday
+середа, wednesday
+сумка, bag
+сукня, of course
+середина, middle
+в минулому, in the past
+характер, character
+відчуття, to feel
+дослідницький центр, research center
+супермаркет, supermarket
+ринок, market
+список, list (shopping)
+підготовка, preparation
+гострий, spicy (sharp)
+пахнути, to smell
+смердіти, to stink
+член, member
+поведінка, behavior
+Японія, japan
+з Японії, from japan
+плутати, confuse
+я ішов з двома колегами, i went with two colleagues
+попросити, ask
+у жовтні, in october
+колег, colleagues
+подаруночок, small gift
+подаруночки, small gifts
+проліски, snowdrops / early spring flowers
+наздоганяти, catch up
+правило, rule
+пошкодити, damage
+вага, weight
+бути обережним, be careful
+період, period
+я відчуваю сум, i feel sad (from something)
+я почуваюся сумно, i feel sad
+виглядати, to look
+на вихідні, on the weekend
+яблуня, apple tree
+інший, other
+шкільна подруга, school friend
+гра, game
+засмаглий, tanned
+вона починається, she starts
+захід, sunset
+північ, midnight
+сидіти, sit
+досвід, experience
+маршрутка, minibus
+маршрутне таксі, minibus
+маршрут, route
+поганий, bad
+гірший, worst
+найгірший, the worst
+Туреччина, turkey (country)
+Європа, europe
+мусульмани, muslims
+фісташка, pistachio
+взяти, take
+звісно, of course
+вгадати, to guess
+авокадо, avocado
+прати одяг, wash clothes
+мити машину, wash the car
+рука, arm / hand
+руками, by hands
+рукавиця, glove
+навесні, in spring
+органічний, organic
+груша, pear
+садити, to plant
+клімат, climate
+заєць, hare
+кріль, krill
+полювати, hunt
+мисливець, hunter
+олень, deer
+зуміти, be able
+в Інстаграмі, on instagram
+модифікований, modified
+передбачуваний, predicted
+прогнозований, forecasted
+перерва, break
+дитячий садок, kindergarten
+внуки, grandchildren
+онуки, grandchildren
+ювілей, anniversary / jubilee
+крок, step
+косити траву, mow grass
+травокосарка, lawn mower
+газон, lawn
+квадратні метри, square meters
+приносити задоволення, bring pleasure
+середній рід, neuter
+самка, female (animal)
+самець, male (animal)
+точно, exactly
+книжечка, booklet
+прибирати, wash / tidy up
+свиня, pig
+свинина, pork
+свинини, pork
+жир, pork fat
+всередину, within
+підсніжник, snowdrop
+вживу, live
+захист, defense
+магістерська робота, master’s thesis
+тема, topic
+переїжджати, move (house)
+переїхати, move
+холодильник, fridge
+для, for
+індійська кухня, indian cuisine
+Індія, india
+зменшити, reduce
+дехто з нас, some of us
+пітніти, sweat
+багато кухонь, many cuisines
+цирк, circus
+дуб, oak
+дощ, rain
+герой, hero
+коровай, loaf
+крапля, drops
+причина, reason
+підкоряти, to conquer
+слухаютьчи, listening
+кататися, to ride (imperfective)
+покататися, to ride (perfective)
+американські гірки, roller coaster
+іменинник, birthday boy
+іменинниця,birthday girl
+враження, impression
+вражений, impressed
+вітати, to greet
+бажати, to wish
+дарувати подарунки, to give presents
+мерщій, swift / quick
+сонячний, sunny
+життєрадісний, cheerful
+енергійний, energetic
+витрачатися, to spend too much money
+привітання, greeting
+ідеальний, perfect
+хай, let
+дарувати, to give
+протягом, during
+торнадо, tornado
+виходити, to go out
+шум, noise / babble
+множина, plural
+азія, asia
+в'єтнам, vietnam
+помилок, mistakes
+помилка, mistake
+косити, to mow
+я кошу, I mow
+система, system
+я вдячний, I appreciate it
+ставати, to become
+прийняв душ, took a shower
+не балуйся, do not indulge
+конспекти уроків, lesson notes
+не могла почекатися, could not wait (anymore)
+ні за що у світі, for nothing in the world
+бути в захваті від, to be delighted with
+знаю це як свої п’ять пальців, i know it like my five fingers
+закохатися по самі вуха, to fall in love up to your ears
+усе найкраще в житті здається несподіваним, all best in life seems unexpected
+турбуватися про, to worry about
+переписуватися, to correspond
+продзвенів дзвінок, the bell rang
+на говоримось, for talking
+не хвилюйся, do not worry
+поле, field
+ділитися, to share
+поділитися, to share (perfective)
+вкладати душу, to put one's soul into
+відносини, relationship
+пропозиція, suggestion
+відсте́жити, to track
+рушник, towel
+зубна паста, toothpaste
+зубна щітка, toothbrush
+зарядка, charger
+іграшки, toys
+допомога, help
+найуспішніший, the most successful
+не хвилюйтесь, don't worry
+я повернусь, i will come back
+ти можеш мені довіряти, trust me
+неодружений, single (m)
+незаміжня, single (f)
+одружений, married (m)
+заміжня, married (f)
+розлучений, divorced (m)
+розлучена, divorced (f)
+вдівець, widower
+вдова, widow
+національність, nationality
+громадянство, citizenship
+біженець, refugee (m)
+біженка, refugee (f)
+підтримати, to support
+злий, angry
+жахливий, awful
+хоробрий, brave
+спокійний, calm
+впевнений, confident
+засмучений, distressed
+сердитий, grumpy
+роздратований, irritated
+нещасний, miserable
+втомлений, tired
+виправляти, to correct
+повітря, air
+назва, name
+вільно, fluently
+співмешканець, cohabitant / roommate
+сухофрукти, dried fruits
+ожина, blackberry
+чорниця, blueberry
+вишня, cherry
+випечений, baked
+гриб, mushroom
+тушковану капусту, stew cabbage
+тушковану, stew
+хрін, horseradish
+буряк, beet
+шпинат, spinach
+на жаль, unfortunately
+приміряти, to try on
+попит, demand
+влаштовуйтесь зручніше, make yourself comfortable
+пропустити, miss (out)
+якнайшвидше, as soon as possible
+підтримувати, to support
+вантажівка, truck
+Америка, america
+американці, americans
+професорка, professor (f)
+професорки, professors
+дистанційно, remotely
+залежати від, depend on
+спосіб мислення, way of thinking
+доросліший, adult
+монополія, monopoly
+стратегічний, strategic
+стратегія, strategy
+виїхати, to leave
+курс, year (school year)
+птаха, bird
+художник, artist
+я почав свій день, i started my day
+лягати спати, going to bed
+витрачати час, spending time
+витрата, spending
+крок за кроком, step by step
+оновлення, update
+передбачати, anticipate
+приєднаний, joined
+Німеччина, germany
+виклик, challenge
+управляти, manage
+хронічний стрес, chronic stress
+свій, your
+Піднятися, climb
+очі розбігаються, eyes are running
+краще пізно ніж ніколи, better late than never
+юридичні питання, legal issues
+втілювати в життя, to implement
+відхилити, to reject
+податися на, to apply for
+Прощатися, bid farewell
+Хоч на край світу, even to the ends of the world
+голова, head
+око, eye
+очі, eyes
+вухо, ear
+вуха, ears
+ніс, nose
+губи, lips
+обличчя, face
+шия, neck
+плече, shoulder
+плечі, shoulders
+руки, arms / hands
+палець, finger
+пальці, fingers
+пальці рук, fingers
+пальці ніг, toes
+ніготь, nail
+нігті, nails
+груди, breasts / chest
+живіт, stomach / tummy
+сідниці, bottom / buttocks
+нога, leg / foot
+ноги, legs / feet
+рот, mouth
+спина, back
+коліно, knee
+коліна, knees
+лікоть, elbow
+лікті, elbows
+зуб, tooth
+зуби, teeth
+звертатися, to see (visit) (e.g. doctor)
+звернутися, to see (visit) (e.g. doctor)
+варто, should / worth to
+трудоголік, workaholic
+підготувати, prepare
+гардусів, degrees (gen.)
+дізнаватися, learn
+можливість, opportunity
+приїжджати, to come / arrive
+шинка, ham
+змагання, competition
+решти, change / the rest
+найважливіший, the most important
+позичений, borrowed
+прокидаюсь, i wake up
+пляшка, bottle
+приєднатися, to join
+їхати, go / travel (one direction)
+більшість людей, most people
+теперішній час, present tense
+страшно, scary
+спалах, flash
+нажаханий, terrified
+сфера, sphera
+кафедра, department
+крутитися, spin
+підвал, basement
+укриття, shelter
+бомбосховища, bomb shelter
+природні катаклізми, natural disasters
+град, hail
+премія, award
+соціальна мережа, social network
+шанс, chance
+цілий тиждень, the whole week
+2 тижні, 2 weeks
+успіх, success
+успіхи, successes
+успішний, successful
+успішніший, more successful
+пустеля, desert
+сухо, dry
+репетитор, tutor
+походження, origin
+вистачати, to suffice
+Мені дуже не вистачає твоїх «занять», i miss your lessons
+навколо, around
+міст, bridge
+справжній, real
+південна частина, southern part
+День незалежності, independence day
+вихідний, weekend
+печуть, bake
+двоє, two
+на ніч, at night
+моноколесо, unicycle / one-wheel
+сходити, to go (one time)
+наодинці, be alone
+зустрінемось, we will meet
+обіймаю міцно, hug tightly
+із сірими очима, with grey eyes
+вистачає, to suffice / enough
+пройшов, passed
+ніяковію, awkward
+червоніти, blush
+почервоніти, redden
+мені лестить, i’m flattered
+хвалити, to praise
+працьовитий, hardworking
+Я прово́джу час, i spend time
+заплутався, confused
+підвищення, promotion
+зайнятися, to do something
+зворушило, moved / touched
+броколі, broccoli
+апельсин, orange
+виноград, grape
+баклажан, eggplant
+яблуко, apple
+часник, garlic
+ківі, kiwi fruit
+банан, banana
+персик, peach
+хурма, persimmon
+азійська груша, asian pear
+насіння, seed / seeds
+розрізати, to cut
+зменшувально, diminutive
+пестливі, pampering
+скучити, to miss someone
+лебідь, swan
+голуб, pigeon
+пристрасний, passionate
