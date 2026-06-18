@@ -1,2 +1,4 @@
+blib-py
 genanki
 gtts
+num2words

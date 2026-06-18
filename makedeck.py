@@ -162,6 +162,6 @@ def add_entries():
 if __name__ == "__main__":
     args = sys.argv[1:]
     print(f"Arguments: {args}")
-    remove = "remove" in args or "-d" in args
+    remove = "remove" in args or "-d" in args or "-r" in args
     find_duplicates(remove=remove)
     add_entries()
